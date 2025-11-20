@@ -1,2 +1,2 @@
 # Library-Management-System
-"Developed a streamlined Library Management System using SQL, Python, and UI technologies to automate book inventory, member records, and transaction workflows. Implemented efficient search, issue/return tracking, and data integrity rules to enhance library operations and user experience."
+Streamlined Library Management System using SQL to manage books, authors, borrowers, and branches. Automates issuing/returning, tracks availability, ensures data accuracy, and enables quick search and reporting for faster, error-free library operations.
